@@ -1,5 +1,5 @@
-msd = input("What you say? : ")
+msg = input("What you say? : ")
 while True:
-if msg == "STOP":
-  break
+  if msg == "STOP":
+    break
 msg = input("I got that! Anything else?")
