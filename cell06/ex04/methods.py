@@ -15,5 +15,4 @@ else:
     elif len(arg ) > 8:
         enlarge(arg)
     else:
-        print(arg)
-            
+        print(arg)            
