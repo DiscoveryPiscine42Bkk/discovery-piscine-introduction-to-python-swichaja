@@ -5,10 +5,10 @@ def array_of_names(name_dict):
         full names.append(full_name)
     return full_names 
 persons = {
-      "sawittcha": "waritsara"
-      "chutinun": "Khamchata"
-      "geno": "pancake"
-      "pancake": "geno"
+      "phuwin": "waritsara"
+      "Tangsakyuen": "Khamchata"
+      "Phuwin": "pancake"
+      "pancake": "Phuwin"
 
 }
  
