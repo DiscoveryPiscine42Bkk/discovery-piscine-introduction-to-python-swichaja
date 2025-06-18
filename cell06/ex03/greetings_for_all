@@ -1,0 +1,10 @@
+def greeting(name="noble stranger"):
+     if isinstance(name, str):
+          print(f"hello, {name}")
+else:
+    print("Error! It was not a name.") 
+
+greeting('Trent')
+greeting('Alexander') 
+greeting()
+greeting(23)
